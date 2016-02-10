@@ -1,2 +1,2 @@
 # hello-world
-Primer intesto de repositorio
+Primer intento de repositorio
